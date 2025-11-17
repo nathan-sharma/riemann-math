@@ -26,7 +26,7 @@ function Info() {
               </p>
 
               <p className="text-lg leading-relaxed text-gray-900">
-                I am currently a sophomore in high school who regularly competes in math competitions. I have recently started averaging 115 on mock AMC 12s, and I hope to qualify for the AIME next year and potentially the USAMO my senior year. I am also Vice President of the Cinco Ranch High School Math Honors Society and the Cinco Ranch High School Physics Club. In February I hope to compete at the Harvard & MIT Mathematics Tournament. I am currently preparing for the AMC, AIME, CHMMC, and F=MA competitions.
+                I am currently a sophomore in high school who regularly competes in math competitions. I have recently started averaging 115 on mock AMC 12s, and I hope to qualify for the AIME next year and potentially the USAMO my senior year. I am also Vice President of the Cinco Ranch High School Math Honors Society and the Cinco Ranch High School Physics Club. I am currently preparing for the AMC, AIME, CMM, and F=MA competitions.
               </p>
             </div>
 

@@ -1,4 +1,4 @@
-import { FaInstagram, FaDiscord } from "react-icons/fa";
+import { FaInstagram, FaDiscord, FaYoutube } from "react-icons/fa";
 
 function Footer() {
   return (
@@ -43,6 +43,15 @@ function Footer() {
               className="hover:scale-110 transition-transform"
             >
               <FaDiscord size={26} className="text-indigo-500" />
+            </a>
+            <a
+              href="https://www.youtube.com/@grogg007"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Discord"
+              className="hover:scale-110 transition-transform"
+            >
+              <FaYoutube size={26} className="text-red-500" />
             </a>
           </div>
 
